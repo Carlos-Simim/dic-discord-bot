@@ -1,0 +1,23 @@
+{
+  "name": "dic-bot",
+  "version": "1.1.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "JVRL18",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord-html-transcripts": "^3.1.2",
+    "discord.js": "^14.11.0",
+    "minecraft-server-util": "^5.4.4",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.5",
+    "puppeteer": "^24.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

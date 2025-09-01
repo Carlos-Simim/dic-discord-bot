@@ -1,0 +1,62 @@
+{
+  "addcargo": [
+    "addcargo"
+  ],
+  "config": [
+    "config"
+  ],
+  "removercargo": [
+    "removercargo"
+  ],
+  "help": [
+    "help"
+  ],
+  "addplaylist": [
+    "addplaylist"
+  ],
+  "playlist": [
+    "playlist"
+  ],
+  "addlogs": [
+    "addlogs"
+  ],
+  "addcanal": [
+    "addcanal"
+  ],
+  "setvip": [
+    "setvip"
+  ],
+  "deletarplaylist": [
+    "deletarplaylist"
+  ],
+  "booster": [
+    "booster"
+  ],
+  "setatividade": [
+    "setatividade"
+  ],
+  "setavatar": [
+    "setavatar"
+  ],
+  "set": [
+    "set"
+  ],
+  "minecraft-status": [
+    "minecraft-status"
+  ],
+  "sincronizar-dados": [
+    "sincronizar-dados"
+  ],
+  "falar": [
+    "falar"
+  ],
+  "sejastaff": [
+    "sejastaff"
+  ],
+  "atvdestag": [
+    "atvdestag"
+  ],
+  "setaratividades": [
+    "setaratividades"
+  ]
+}
